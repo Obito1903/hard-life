@@ -4,6 +4,8 @@ Add a little bit of difficulty when playing in hard mode by limiting the number 
 
 By default players have 5 lives. If they use them all they will be put in spectator mode
 
+Also if you kill somone your number of hearth will be cut in half, until you die
+
 ## Usage
 
 Reset :
